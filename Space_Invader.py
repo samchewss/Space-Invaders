@@ -23,15 +23,16 @@ EYES_OPEN_MAX_GAP = 10      # # frames máx. para considerar un parpadeo breve
 COOLDOWN_BAR_W = 200
 
 # Enemigos (valores base nivel 1; se incrementan por ola)
+# Enemigos (valores base nivel 1; se incrementan por ola)
 ENEMY_COLS_BASE = 6
 ENEMY_ROWS_BASE = 3
 ENEMY_W = 50
 ENEMY_H = 30
 ENEMY_H_GAP = 20
 ENEMY_V_GAP = 26
-ENEMY_SPEED_BASE = 3             # pix por paso
+ENEMY_SPEED_BASE = 6             # ← antes: 3 (doble de rápido)
 ENEMY_STEP_DOWN = 18
-ENEMY_MOVE_INTERVAL_BASE = 0.08  # segundos entre pasos del enjambre
+ENEMY_MOVE_INTERVAL_BASE = 0.06
 
 # Dibujo
 MARGIN_X = 10
