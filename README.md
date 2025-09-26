@@ -1,5 +1,7 @@
 # Space Invaders con Control Facial (OpenCV)
 
+> Equipo: Samantha Elizabeth Chew Arenas y Alonso Perez Medrano
+
 Juego tipo *Space Invaders* controlado con la **cara** (pos. horizontal) y **parpadeos** para disparar. Renderizado con OpenCV en tiempo real.
 
 > Nota: Esta implementación **no** usa Arcade para dibujar; todo el render se hace con OpenCV. Si deseas migrarlo a Arcade, consulta la sección "Migrar a Arcade".
